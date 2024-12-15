@@ -1,5 +1,4 @@
 const { Client, Collection } = require('discord.js');
-const { DiscordTogether } = require('discord-together');
 const fs = require('fs');
 const prefixSchema = require('./src/Models/Prefix');
 require('dotenv').config();
@@ -15,7 +14,6 @@ client.slashCommands = new Collection();
 client.aliases = new Collection();
 client.snipes = new Collection();
 client.categories = fs.readdirSync('./src/Commands');
-client.discordTogether = new DiscordTogether(client);
 client.config = process.env;
 client.prefix = async message => {
     try {
