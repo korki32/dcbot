@@ -1,0 +1,7 @@
+entrypoint = "index.js"
+run = "npx node ."
+hidden = [".config", "package-lock.json"]
+
+[[ports]]
+localPort = 8080
+externalPort = 80

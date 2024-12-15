@@ -1,0 +1,463 @@
+[
+  {
+    "id": 1,
+    "question": "Mikor jelent meg az eredeti Counter-Strike játék?",
+    "answers": ["1998", "2000", "1999", "2001"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 2,
+    "question": "Melyik játék modjaként kezdte pályafutását a Counter-Strike széria?",
+    "answers": ["Quake", "Unreal Tournament", "Half-Life", "Team Fortress"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 3,
+    "question": "Az alábbiak közül melyik pálya NEM szerepelt még megjelenéskor a CS:GO-ban?",
+    "answers": ["Nuke", "Cache", "Inferno", "Mirage"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4,
+    "question": "Mi a terroristák bombájának kódja a CS:GO-ban?",
+    "answers": ["7355608", "1995328", "1337101", "7365618"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 5,
+    "question": "Hány dollárral kezdenek a játékosok egy hagyományos rangsorolt meccs elején a CS:GO-ban?",
+    "answers": ["800", "1000", "1200", "1400"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 6,
+    "question": "Melyik évben jelent meg a Counter-Strike: Global Offensive?",
+    "answers": ["2014", "2013", "2012", "2011"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 7,
+    "question": "Melyik szervezet nyerte a legkevesebb Majort a CS:GO-ban?",
+    "answers": ["Fnatic", "Astralis", "Virtus.pro", " Ninjas in Pyjamas (NIP)"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 8,
+    "question": "Mennyibe kerül kevlár sisak nélkül, M4A4, villanó, füst, hatástalanító készlet?",
+    "answers": ["4450", "4650", "4850", "5000"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 9,
+    "question": "Melyik pályát nem játszották a legelső CS:GO Majoron?",
+    "answers": ["Mirage", "Inferno", "Nuke", "Cobblestone"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 10,
+    "question": "Mennyi pénz jár egy Zeus kill után?",
+    "answers": ["0", "300", "600", "1500"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 11,
+    "question": "Melyik fegyver a legdrágább az alábbiak közül?",
+    "answers": ["MAC-10", "MP9", "UMP-45", "PP-Bizon"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 12,
+    "question": "Melyik alábbi játékos nyerte a legtöbb CS:GO Majort?",
+    "answers": ["Device", "Magisk", "Dupreeh", "Gla1ve"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 13,
+    "question": "Hanyadik játék a CS2 a szériában?",
+    "answers": ["2", "3", "5", "6"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 14,
+    "question": "Melyik évben került be Vertigo az aktív versenypályák közé? ",
+    "answers": ["2019", "2020", "2021", "2022"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 15,
+    "question": "Ki volt az év játékosa 2015-ben?",
+    "answers": ["coldzera", "olofmeister", "PashaBiceps", "KennyS"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 16,
+    "question": "Melyik map nem túszos az alábbiak közül?",
+    "answers": ["Office", "Lake", "Assault", "Italy"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 17,
+    "question": "Melyik fegyvernek volt távcsöve a CS bétában, amit késöbb levettek róla?",
+    "answers": ["AK-47", "Famas", "Galil AR", "M4A1-S"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 18,
+    "question": "Kinek a nevéhez fűzödik ez a graffiti?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/image_12.jpg",
+    "answers": ["s1mple", "coldzera", "m0NESY", "olofmeister"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 19,
+    "question": "Kinek a nevéhez fűzödik ez a graffiti?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/image_10.jpg",
+    "answers": ["coldzera", "flusha", "KRIMZ", "olofmeister"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 20,
+    "question": "Kinek a nevéhez fűzödik ez a graffiti?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/image_13.jpg",
+    "answers": ["s1mple", "allu", "coldzera", "kennyS"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 21,
+    "question": "CS:GO-ban melyik fegyver spray patternje volt ez?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/image_14.jpg",
+    "answers": ["AUG", "SG553", "M4A4", "AK-47"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 22,
+    "question": "Hogy hívják ezt a pályát?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/image_11.png",
+    "answers": ["Italy", "Santorini", "Chlorine", "Ruby"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 23,
+    "question": "Mennyi pénzt kapsz ha lerakod a bombát?",
+    "answers": ["0", "200", "300", "600"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 24,
+    "question": "Melyik ládából nyitható az AK-47 | Fire Serpent skin?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/fire_serpent.png",
+    "answers": ["Operation Breakout", "Operation Bravo", "Esports 2013", "Operation Phoenix"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 25,
+    "question": "Ki a Counter-Strike egyik alapítója?",
+    "answers": ["Gabe Newell", "John Romero", "Shigeru Miyamoto", "Hideo Kojima"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 26,
+    "question": "Mikor jelentették be hivatalosan a CS:GO-t?",
+    "answers": ["2011 július", "2011 augusztus", "2012 július", "2012 augusztus"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 28,
+    "question": "A 2022-es Majoron ki volt az Outsiders ellenfele a döntőben?",
+    "answers": ["NAVI", "Astralis", "G2", "Heroic"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 29,
+    "question": "Ki kapta, a Rookie of the Year díjat 2022-ben?",
+    "answers": ["m0NESY⁠", "b1t", "Patsi", "⁠w0nderful"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 30,
+    "question": "Hányféle lövedék típusa van a CS:GO-ban?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 31,
+    "question": "Melyik évben került bevezetésre az 'Operation Hydra' a CS:GO-ban?",
+    "answers": ["2017", "2016", "2018", "2019"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 32,
+    "question": "Melyik évben rendezték meg az első CS:GO Major-t?",
+    "answers": ["2013", "2014", "2015", "2016"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 33,
+    "question": "Melyik fegyvernek volt a legnagyobb lövési sebessége a CS:GO-ban?",
+    "answers": ["M4A4", "AK-47", "Glock-18", "USP-S"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 34,
+    "question": "Melyik évben mutatták be a 'Danger Zone' nevű battle royale módját a CS:GO-ban?",
+    "answers": ["2018", "2019", "2020", "2021"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 35,
+    "question": "Melyik pálya volt az, amit hozzáadtak a CS:GO-hoz a 2022-es Fracture Operation során?",
+    "answers": ["Ancient", "Engage", "Apollo", "Extraction"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 36,
+    "question": "Melyik pisztoly képes 1 hitelni fejre, ha az illetőn van kevlár és sisak?",
+    "answers": ["Desert Eagle", "CZ75-Auto", "Five-Seven", "Dual Berettas"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 37,
+    "question": "Melyik évben jelent meg az első ingyenesvé tettek verziója a CS:GO-nak?",
+    "answers": ["2018", "2019", "2020", "2021"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 38,
+    "question": "Melyik pálya volt az első, amit a CS:GO későbbi verziójában 'Operation Bravo' néven újra bemutattak?",
+    "answers": ["Agency", "Cache", "Seaside", "Santorini"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 39,
+    "question": "Melyik fegyver a legkevésbé pontos mozgás közben a játékban?",
+    "answers": ["MP9", "MAC-10", "P90", "PP-Bizon"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 40,
+    "question": "Melyik pálya volt az első, amit a CS:GO hivatalosan elfogadott közösségi térkép programjában mutattak be?",
+    "answers": ["Overpass", "Cobblestone", "Biome", "Subzero"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 41,
+    "question": "Mennyi lőszer van a SCAR-20 tárjában alapértelmezés szerint a CS:GO-ban?",
+    "answers": ["10", "20", "30", "40"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 42,
+    "question": "Mennyi lőszer van a Glock-18 tárjában alapértelmezés szerint a CS:GO-ban?",
+    "answers": ["15", "20", "25", "30"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 43,
+    "question": "Melyik csapat nyerte meg az első CS:GO Major-t?",
+    "answers": ["Fnatic", "Ninjas in Pyjamas (NiP)", "Team Liquid", "Virtus.pro"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 44,
+    "question": "Melyik csapat nyerte meg az utolsó CS:GO Major-t?",
+    "answers": ["Natus Vincere", "Heroic", "Vitality", "Faze"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 45,
+    "question": "Melyik évben rendezték meg az utolsó CS:GO Major-t?",
+    "answers": ["2020", "2021", "2022", "2023"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 46,
+    "question": "Ki lett az utolsó CS:GO Major MVP?",
+    "answers": ["ZywOo", "s1mple", "Gla1ve", "Niko"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 47,
+    "question": "A 2023-as Majoron ki volt a Vitality ellenfele a döntőben?",
+    "answers": ["NAVI", "GamerLegion", "Apeks", "Monte"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 48,
+    "question": "Melyik pálya volt verseny map Counter-Strike 1.6-ban?",
+    "answers": ["Tuscan", "Italy", "Ancient", "Cache"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 50,
+    "question": "Hány csapat játszott az első hivatalos Counter-Strike 1.6 Major versenyen?",
+    "answers": ["8", "10", "12", "16"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 51,
+    "question": "Melyik játékos volt a Counter-Strike 1.6 legjobb csapatának vezére és támadója?",
+    "answers": ["GeT_RiGhT", "zonic", "f0rest", "NEO"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 52,
+    "question": "Mi volt az eredeti csapatnév az 'Fnatic' esetében a Counter-Strike-ban?",
+    "answers": ["Fantastic", "Funky", "Fearless", "Fragmatic"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 53,
+    "question": "Melyik országból származik a Counter-Strike 1.6 egyik leghíresebb csapat, a 'SK Gaming'?",
+    "answers": ["Svédország", "Dánia", "Németország", "Brazília"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 54,
+    "question": "Hány fős csapatok játszanak a hivatalos CS:GO versenyeken?",
+    "answers": ["5", "6", "4", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 55,
+    "question": "Melyik játékmód került be legkésőbb a Counter-Strike: Global Offensive játékba?",
+    "answers": ["Wingman", "Danger Zone", "Flying Scoutsman", "Retakes"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 56,
+    "question": "Melyik volt az utolsó térkép, amit hozzáadtak a versenykörnyezethez a CS:GO-ban?",
+    "answers": ["Ancient", "Biome", "Anubis", "Studio"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 57,
+    "question": "Melyik volt az a térkép, ami minden CS:GO Majoron benne volt a map poolban?",
+    "answers": ["Mirage", "Inferno", "Dust2", "Nuke"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 58,
+    "question": "Melyik pályát dolgozták teljesen újra és mutatták be CS2-ben?",
+    "answers": ["Mirage", "Inferno", "Dust2", "Nuke"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 59,
+    "question": "Melyik csapat nyerte a legelső CS2 tornát?",
+    "answers": ["Faze", "Mouz", "NaVi", "G2"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 60,
+    "question": "Melyik pálya radarja látható a képen? (CS:GO)",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/radarc_1.jpg",
+    "answers": ["Biome", "Cobblestone", "Cache", "Subzero"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 61,
+    "question": "Melyik pálya radarja látható a képen? (CS:GO)",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/radarc_2.jpg",
+    "answers": ["Overpass", "Cobblestone", "Cache", "Lake"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 62,
+    "question": "Melyik pálya radarja látható a képen? (CS:GO)",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/radarn_1.jpg",
+    "answers": ["Nuke", "Vertigo", "Train", "Cache"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 63,
+    "question": "Melyik pálya radarja látható a képen? (CS:GO)",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/radarm_1.jpg",
+    "answers": ["Mirage", "Anubis", "Dust2", "Inferno"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 64,
+    "question": "Melyik pálya radarja látható a képen? (CS:GO)",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/radart_1.jpg",
+    "answers": ["Vertigo", "Nuke", "Mirage", "Train"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 65,
+    "question": "Melyik pálya radarja látható a képen? (CS:GO)",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/radaro_1.jpg",
+    "answers": ["Biome", "Subzero", "Lake", "Overpass"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 66,
+    "question": "Melyik évben ért véget Böröcz 'DeadFox' Bence CS:GO karrierje?",
+    "answers": ["2017", "2018", "2019", "2020"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 67,
+    "question": "Melyik profi esportoló látható a képen?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/image_4.png",
+    "answers": ["DeadFox", "Hunter", "hallzerk", "Torzsi"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 68,
+    "question": "Melyik profi esportoló látható a képen?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/image_3.png",
+    "answers": ["Edward", "Zeus", "Get_Right", "olofmeister"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 69,
+    "question": "Melyik profi esportoló látható a képen?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/image_5.png",
+    "answers": ["Deadfox", "Torzsi", "pashaBiceps", "GuardiaN"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 70,
+    "question": "Melyik csapat kapta a Team of the Year díjat 2022-ben?",
+    "answers": ["Faze", "Natus Vincere", "Vitality", "G2"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 71,
+    "question": "Melyik játékos kapta a Highlight of the Year díjat 2022-ben?",
+    "answers": ["broky", "ropz", "s1mple", "m0NESY"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 72,
+    "question": "Melyik országból származik a CS:GO egyik legnépszerűbb csapata, az 'Astralis'?",
+    "answers": ["Svédország", "Dánia", "Norvégia", "Finnország"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 73,
+    "question": "Melyik országból származik a Counter-Strike egyik leghíresebb csapata, a 'Ninjas in Pyjamas'?",
+    "answers": ["Svédország", "Lengyelország", "Dánia", "Norvégia"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 74,
+    "question": "CS:GO-ban melyik évben kapta az AWP azt a nerfet, mikor már csak 5 töltény lett a tárban 10 helyett?",
+    "answers": ["2020", "2021", "2022", "2023"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 75,
+    "question": "Melyik Counter-Strike 1.6 map van a képen?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/image_1.jpg",
+    "answers": ["Ancient", "Aztec", "Cobblestone", "Anubis"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 76,
+    "question": "Melyik Counter-Strike 1.6 map van a képen?",
+    "imageUrl": "https://raw.githubusercontent.com/korki32/counterstrikekviz/main/image_2.jpg",
+    "answers": ["Tuscan", "Mirage", "CP Mill", "Dust"],
+    "correctAnswer": "0"
+  }
+]
