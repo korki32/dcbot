@@ -91,14 +91,18 @@ feed_settings = {
 }
 
 
+# Discord bot intents beállítása
+intents = discord.Intents.default()
+intents.messages = True  # Ha a botnak szüksége van üzenetek olvasására, engedélyezni kell
+
 # Discord bot kliens
-client = discord.Client()
+client = discord.Client(intents=intents)
 
 # Funkció, amely lekéri az RSS feedeket és elküldi a híreket embed üzenetekben
 async def fetch_rss():
     await client.wait_until_ready()
     
-    # RSS feedek folyamatos ellenorzése 5 percenként
+    # RSS feedek folyamatos ellenőrzése 5 percenként
     while not client.is_closed():
         for feed_name, feed_url in rss_feeds.items():
             feed = feedparser.parse(feed_url)
@@ -130,7 +134,7 @@ async def fetch_rss():
             if 'media:content' in latest_entry:
                 embed.set_image(url=latest_entry['media:content'][0]['url'])
 
-            # Küldjük el az embed üzenetet a megfelelo szobába
+            # Küldjük el az embed üzenetet a megfelelő szobába
             await channel.send(embed=embed)
         
         # 5 perc várakozás
