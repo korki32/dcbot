@@ -4,7 +4,7 @@ import asyncio
 from discord.ext import tasks
 
 # Discord bot token
-TOKEN = 'acf8b69fc37efbb5b08f0a21f26723d16b75fec3d125788641bd61ce68280251'
+TOKEN = 'MTMxODE0NDkzMTMxNDc5NDU0Nw.G04QGD.iZEaPQXvVRe8VDJ_8k7EfgLawgUsZKR2UuW5OE'
 
 # RSS feed URL-k
 rss_feeds = {
