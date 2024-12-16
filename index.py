@@ -2,9 +2,14 @@ import discord
 import feedparser
 import asyncio
 from discord.ext import tasks
+from dotenv import load_dotenv
+import os
 
-# Discord bot token
-TOKEN = 'MTMxODE0NDkzMTMxNDc5NDU0Nw.G04QGD.iZEaPQXvVRe8VDJ_8k7EfgLawgUsZKR2UuW5OE'
+# Betölti a .env fájlt és beállítja a környezeti változókat
+load_dotenv()
+
+# Discord bot token betöltése a környezeti változóból
+TOKEN = os.getenv("DISCORD_TOKEN")
 
 # RSS feed URL-k
 rss_feeds = {
@@ -16,7 +21,7 @@ rss_feeds = {
     "bitcoin-hu": "https://bitcoin.hu/feed/",
     "24-hu": "https://24.hu/feed/",
     "kriptomagazin-hu": "https://kriptomagazin.hu/feed/",
-     "ign-hu": "https://hu.ign.com/rss",
+    "ign-hu": "https://hu.ign.com/rss",
 }
 
 # Szobák (channel id-k, amiket be kell állítani)
@@ -29,7 +34,7 @@ channels = {
     "bitcoin-hu": 1318217674802728960,
     "24-hu": 1318217703319670904,
     "kriptomagazin-hu": 1318217746995216527,
-    "ign-hu":  1318217778548838502
+    "ign-hu": 1318217778548838502
 }
 
 # Egyedi név, avatar, és embed beállítások minden RSS feedhez
@@ -89,7 +94,6 @@ feed_settings = {
         "footer": "IGN.hu - Játékok és tech hírek"
     }
 }
-
 
 # Discord bot intents beállítása
 intents = discord.Intents.default()
